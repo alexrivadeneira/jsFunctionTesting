@@ -1,9 +1,22 @@
+// COMPLETE THE FUNCTIONS IN THIS FILE TO PASS THE TEST CASES:
+// The detailed specifications for each function are in /spec/FunctionsSpec.js
+
 function addTwoNums(num1, num2){
-	var sum = num1 + num2 + 5;
-	return sum;
+
 }
 
 function addThreeNums(num1, num2, num3){
-	var sum = num1 + num2 + num3;
-	return sum;
+
+}
+
+function addOneToInput(num){
+
+}
+
+function doubleString(str){
+
+}
+
+function roundNum(decimalNum){
+
 }
